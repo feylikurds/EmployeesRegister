@@ -21,6 +21,48 @@ namespace EmployeesRegister.Controllers
             return View(db.Employees.ToList());
         }
 
+        public ActionResult Factory()
+        {
+            var model = db.Employees.Where(i => i.Department == "Factory").ToList();
+
+            return View(model);
+        }
+
+        public ActionResult Sales()
+        {
+            var model = db.Employees.Where(i => i.Department == "Sales").ToList();
+
+            return View(model);
+        }
+
+        public ActionResult Coporate()
+        {
+            var model = db.Employees.Where(i => i.Department == "Coporate").ToList();
+
+            return View(model);
+        }
+
+        public ActionResult Worker()
+        {
+            var model = db.Employees.Where(i => i.Position == "Worker").ToList();
+
+            return View(model);
+        }
+
+        public ActionResult Teamleader()
+        {
+            var model = db.Employees.Where(i => i.Position == "Teamleader").ToList();
+
+            return View(model);
+        }
+
+        public ActionResult Manager()
+        {
+            var model = db.Employees.Where(i => i.Position == "Manager").ToList();
+
+            return View(model);
+        }
+
         // GET: Employees/Details/5
         public ActionResult Details(int? id)
         {
