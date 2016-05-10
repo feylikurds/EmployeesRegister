@@ -35,6 +35,12 @@ C:\Users\User\Documents\Visual Studio 2015\Projects\EmployeesRegister\EmployeesR
 C:\Users\User\Documents\Visual Studio 2015\Projects\EmployeesRegister\EmployeesRegister\bin\System.Web.WebPages.Razor.xml
 C:\Users\User\Documents\Visual Studio 2015\Projects\EmployeesRegister\EmployeesRegister\bin\Antlr3.Runtime.pdb
 C:\Users\User\Documents\Visual Studio 2015\Projects\EmployeesRegister\EmployeesRegister\bin\Newtonsoft.Json.xml
-C:\Users\User\Documents\Visual Studio 2015\Projects\EmployeesRegister\EmployeesRegister\obj\Debug\EmployeesRegister.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2015\Projects\EmployeesRegister\EmployeesRegister\obj\Debug\EmployeesRegister.dll
 C:\Users\User\Documents\Visual Studio 2015\Projects\EmployeesRegister\EmployeesRegister\obj\Debug\EmployeesRegister.pdb
+C:\Users\User\documents\visual studio 2015\Projects\EmployeesRegister\EmployeesRegister\bin\EntityFramework.dll
+C:\Users\User\documents\visual studio 2015\Projects\EmployeesRegister\EmployeesRegister\bin\EntityFramework.SqlServer.dll
+C:\Users\User\documents\visual studio 2015\Projects\EmployeesRegister\EmployeesRegister\bin\EntityFramework.xml
+C:\Users\User\documents\visual studio 2015\Projects\EmployeesRegister\EmployeesRegister\bin\EntityFramework.SqlServer.xml
+C:\Users\User\documents\visual studio 2015\Projects\EmployeesRegister\EmployeesRegister\obj\Debug\EmployeesRegister.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\EmployeesRegister\EmployeesRegister\obj\Debug\EmployeesRegister.Migrations.Init.resources
+C:\Users\User\documents\visual studio 2015\Projects\EmployeesRegister\EmployeesRegister\obj\Debug\EmployeesRegister.csproj.GenerateResource.Cache
