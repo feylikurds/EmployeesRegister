@@ -41,7 +41,7 @@ namespace EmployeesRegister.Migrations
             {
                 "Factory",
                 "Sales",
-                "Coporate",
+                "Corporate",
             };
 
             var rnd = new Random(new System.DateTime().Millisecond);
@@ -53,8 +53,8 @@ namespace EmployeesRegister.Migrations
                     var fn = RandomString(rnd, 10);
                     var ln = RandomString(rnd, 10);
                     var sl = rnd.Next(1, 10) * 1000;
-                    var ps = positions[rnd.Next(0, positions.Length - 1)];
-                    var dp = departments[rnd.Next(0, departments.Length - 1)];
+                    var ps = positions[rnd.Next(0, positions.Length)];
+                    var dp = departments[rnd.Next(0, departments.Length)];
 
                     var employee = new Models.Employee
                     {

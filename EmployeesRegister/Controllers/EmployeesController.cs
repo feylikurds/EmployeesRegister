@@ -35,9 +35,9 @@ namespace EmployeesRegister.Controllers
             return View(model);
         }
 
-        public ActionResult Coporate()
+        public ActionResult Corporate()
         {
-            var model = db.Employees.Where(i => i.Department == "Coporate").ToList();
+            var model = db.Employees.Where(i => i.Department == "Corporate").ToList();
 
             return View(model);
         }

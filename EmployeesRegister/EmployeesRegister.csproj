@@ -186,10 +186,10 @@
     <Content Include="Views\Employees\Index.cshtml" />
     <Content Include="Views\Employees\Factory.cshtml" />
     <Content Include="Views\Employees\Sales.cshtml" />
-    <Content Include="Views\Employees\Coporate.cshtml" />
     <Content Include="Views\Employees\Worker.cshtml" />
     <Content Include="Views\Employees\Teamleader.cshtml" />
     <Content Include="Views\Employees\Manager.cshtml" />
+    <Content Include="Views\Employees\Corporate.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
